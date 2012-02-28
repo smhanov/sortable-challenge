@@ -1,6 +1,6 @@
 # Sortable Coding Challenge Contest Entry
 
-Here is my entry for the [Sortable coding challenge]().
+Here is my entry for the [Sortable coding challenge](http://sortable.com/blog/coding-challenge/).
 
 To run it, type:
 
